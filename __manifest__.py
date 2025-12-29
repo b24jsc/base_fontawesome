@@ -40,4 +40,5 @@
             "base_fontawesome/static/lib/fontawesome-6.5.1/css/v4-shims.css",
         ],
     },
+    'auto_install': True,
 }
